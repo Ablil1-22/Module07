@@ -1,7 +1,7 @@
 :root {
-    --primary: #8B3A3A;
+    --primary: #205e2e;
     --secondary: #F4EBD0;
-    --accent: #D9A441;
+    --accent: #ffa600;
     --dark: #2f2f2f;
     --light: #FFFFFF;
 }
@@ -50,16 +50,15 @@ nav li {
     color: var(--light);
 }
 .slogan {
-    background-image: url('https://source.unsplash.com/1600x900/?coffee');
+    background-image: url('images/red.jpg');
     background-size: cover;
     background-position: center;
     padding: 1.5rem 1rem;
     text-align: center;
-    color: var(--dark);
-    border: 2px solid var(--accent);
+    color: var(--light);
 }
 .slogan h1 {
-    backgroun-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
     display: inline-block;
     padding: 1rem 2rem;
     border-radius: 10px;
