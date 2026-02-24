@@ -55,7 +55,7 @@ nav li {
     background-position: center;
     padding: 1.5rem 1rem;
     text-align: center;
-    color: var(--accent);
+    color: var(--dark);
     border: 2px solid var(--accent);
 }
 .slogan h1 {
